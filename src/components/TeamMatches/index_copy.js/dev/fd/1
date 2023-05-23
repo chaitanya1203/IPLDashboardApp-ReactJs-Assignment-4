@@ -1,0 +1,238 @@
+root INFO [hosted-plugin: 12528] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 12528] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 12528] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 12528] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 12528] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 12528] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 12528] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 12528] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 12528] TypeError: Cannot read property 'version' of null
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3150:45
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'version' of null
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3150:45
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 12528] TypeError: Cannot read property 'version' of null
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3150:45
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 12528] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 12528] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 12528] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 12528] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 12528] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO >>> Stopping frontend contributions...
+root INFO <<< All frontend contributions have been stopped.
+root INFO Detected keyboard layout from browser API: US (PC)
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33] Sync of 53 plugins took: 3771.0 ms
+root INFO Changed application state from 'init' to 'started_contributions'.
+root INFO Changed application state from 'started_contributions' to 'attached_shell'.
+root INFO >>> Restoring the layout state...
+root INFO <<< The layout has been successfully restored.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][visualstudioexptteam.vscodeintellicode]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][formulahendry.auto-close-tag]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][nxt wave.ccbp-preview-plugin]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][nxt wave.ccbp-project-workspace-plugin]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][mikestead.dotenv]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][pkief.material-icon-theme]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][leizongmin.node-module-intellisense]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][nxt wave.update-confirmation-pop-up-plugin]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.configuration-editing]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.debug-auto-launch]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.emmet]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.handlebars]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.html]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.vscode-theme-seti]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.javascript]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.json]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.json-language-features]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.markdown]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.markdown-language-features]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.merge-conflict]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.npm]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.scss]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.sql]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.typescript]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.typescript-language-features]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][esbenp.prettier-vscode]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][mgmcdermott.vscode-language-babel]: Loaded contributions.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][ms-python.python]: Loaded contributions.
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): PluginManagerExtImpl/init()
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(auto-close-tag@0.5.5 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(ccbp-preview-plugin@1.0.0 with /home/theia/node_modules/@theia/plugin-ext/lib/hosted/node/scanners/backend-init-theia.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(dotenv@1.0.1 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(update-confirmation-pop-up-plugin@1.0.0 with /home/theia/node_modules/@theia/plugin-ext/lib/hosted/node/scanners/backend-init-theia.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(css@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(emmet@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(handlebars@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(html-language-features@1.49.0 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(vscode-theme-seti@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(json-language-features@1.46.1 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(markdown@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(merge-conflict@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] Debugger contribution has been registered: node
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(npm@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(theme-solarized-dark@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(typescript-language-features@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(yaml@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(rest-client@0.24.4 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(npm-intellisense@1.3.1 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(night-owl@2.0.0 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(JavaScriptSnippets@1.8.0 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(vscode-language-babel@0.0.29 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(python@2020.1.58038 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(vscode-styled-components@1.5.0 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): initializing(css-language-features@1.45.1 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-editorconfig/extension/out/editorConfigMain.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-custom-todo-highlight/extension/src/extension)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-custom-path-intellisense/extension/out/extension.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-custom-git-graph/extension/out/extension.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-custom-dbaeumer.vscode-eslint/extension/client/out/extension)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-builtin-merge-conflicts/extension/dist/extension)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-builtin-emmet/extension/dist/extension)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-builtin-debug-auto-launch/extension/dist/extension)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): PluginManagerExtImpl/loadPlugin(/tmp/theia-unpacked/update_confirmation_pop_up_plugin.theia/lib/update-confirmation-pop-up-plugin.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): PluginManagerExtImpl/loadPlugin(/tmp/vscode-unpacked/material-icon-theme-4.5.0.vsix/extension/dist/extension)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): PluginManagerExtImpl/loadPlugin(/tmp/theia-unpacked/ccbp_preview_plugin.theia/lib/ccbp-preview-plugin.js)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): PluginManagerExtImpl/loadPlugin(/tmp/vscode-unpacked/auto-rename-tag-0.1.0.vsix/extension/out/src/extension)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): PluginManagerExtImpl/loadPlugin(/tmp/vscode-unpacked/auto-close-tag-0.5.5.vsix/extension/out/src/extension)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): PluginManagerExtImpl/loadPlugin(/tmp/vscode-unpacked/vscode-language-babel-0.0.29.vsix/extension/dist/extension)
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][vscode.yaml]: Started plugin.
+root INFO [cd7126c3-bc1f-4370-a4bd-8be3ef5bdf33][mhutchie.git-graph]: Started plugin.
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] PLUGIN_HOST(16219): PluginManagerExtImpl/loadPlugin(/tmp/vscode-unpacked/vscode.css-language-features-1.45.1.vsix/extension/client/dist/cssMain)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] TypeError: Cannot read property 'version' of null
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3150:45
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] TypeError: Cannot read property 'version' of null
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3150:45
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] TypeError: Cannot read property 'version' of null
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3150:45
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] TypeError: Cannot read property 'version' of null
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3150:45
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'version' of null
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3150:45
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 16219] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
